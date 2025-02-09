@@ -124,7 +124,7 @@ const hallwayLeft = () => {
 
 // Function for the run away scenario
 const runAway = () => {
-    console.log("You reach the end of the hall and enter the only door. You see a bouquet"
+    console.log("You reach the end of the hall and enter the only door. You see a bouquet "
         + "of flowers and a baseball bat. Which do you grab to defend yourself?");
     rl.question('Type "flowers" or "bat": ', (choice) => {
         if (choice.toLowerCase() === 'flowers') {
