@@ -4,25 +4,23 @@ I decided to write create this program to help me understand JavaScript used as 
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/VLTE3cEFeCk))
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+For this project, I used Visual Studio Code as me development environment. I used Node.js and Express for creating and running the program.
 
-{Describe the programming language that you used and any libraries.}
+The program is written in JavaScript. I used the Console and the ReadLine modules of Node.js. It took me some time to figure out how to use the ReadLine module.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Node.js Documentation]([http://url.link.goes.here](https://nodejs.org/docs/v22.13.1/api/documentation.html))
+- [Visual Studio Code Node.js Tutorial]([http://url.link.goes.here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial))
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- In the future, I would love to make the story longer. I don't consider myself a good writer, but I would love to design a better story that is more interesting and exciting.
+- I think it would be fun to have two or three different stories in this program, allowing the user to pick which story they want to step through.
+- If I were to put this on a web server, I could add pictures that correlate to what the program is saying, giving the user a more immersive experience.
