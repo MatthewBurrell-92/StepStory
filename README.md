@@ -6,7 +6,7 @@ I decided to write create this program to help me understand JavaScript used as 
 
 [Software Demo Video]([http://youtube.link.goes.here](Click Here))
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/VLTE3cEFeCk))
+[Software Demo Video](https://youtu.be/VLTE3cEFeCk)
 
 # Development Environment
 
