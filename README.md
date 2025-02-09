@@ -6,6 +6,8 @@ I decided to write create this program to help me understand JavaScript used as 
 
 [Software Demo Video]([http://youtube.link.goes.here](Click Here))
 
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/VLTE3cEFeCk))
+
 # Development Environment
 
 For this project, I used Visual Studio Code as me development environment. I used Node.js and Express for creating and running the program.
